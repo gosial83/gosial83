@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Małgorzata Łukasik!
+### Hi there! 👋
 
 🌱 I'm a Junior Front-End Developer with experience as Implementation specialist (ERP).
 
