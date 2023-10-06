@@ -2,7 +2,7 @@
 
 🌱 I'm a Junior Front-End Developer with experience as Implementation specialist (ERP).
 
-🔭 Currently working on improving my skills in Vue.js and diving deeper into JavaScript. Check out my main project **API Explorer**
+🔭 Currently working on improving my skills in Vue.js and diving deeper into JavaScript. Check out my main project [**API Explorer**](https://github.com/gosial83/API_Explorer).
 
 📚 Continuously learning and growing my skill set to solve real-world problems.
 
